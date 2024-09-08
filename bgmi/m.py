@@ -8,10 +8,10 @@ import datetime
 import os
 
 # insert your Telegram bot token here
-bot = telebot.TeleBot('6985771977:AAHs45lBA9nZ93YsOjhr0LPxjsb6UMctdsg')
+bot = telebot.TeleBot('7255982596:AAEsPCjDikV5Mo7SpmptDRtD4OzSoib63lg')
 
 # Admin user IDs
-admin_id = ["6159360725"]
+admin_id = ["2059214896"]
 
 # File to store allowed user IDs
 USER_FILE = "users.txt"
@@ -224,7 +224,7 @@ def handle_bgmi(message):
         # Check if the user is in admin_id (admins have no cooldown)
         if user_id not in admin_id:
             # Check if the user has run the command before and is still within the cooldown period
-            if user_id in bgmi_cooldown and (datetime.datetime.now() - bgmi_cooldown[user_id]).seconds < 300:
+            if user_id in bgmi_cooldown and (datetime.datetime.now() - bgmi_cooldown[user_id]).seconds < 0:
                 response = "You Are On Cooldown. Please Wait 5min Before Running The /bgmi Command Again."
                 bot.reply_to(message, response)
                 return

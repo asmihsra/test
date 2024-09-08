@@ -1,0 +1,6 @@
+UserID: 2059214896 | Time: 2024-09-08 18:19:36.327730 | Command: /bgmi | Target: 20.198.106.84 | Port: 26516 | Time: 30
+Username: @bazeee123
+Target: 20.198.106.84
+Port: 26516
+Time: 30
+

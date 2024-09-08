@@ -1,0 +1,48 @@
+UserID: 2059214896 | Time: 2024-09-08 09:42:16.290900 | Command: /bgmi | Target: 20.204.191.52 | Port: 10403 | Time: 240
+Username: @bazeee123
+Target: 20.204.191.52
+Port: 10403
+Time: 240
+
+UserID: 2059214896 | Time: 2024-09-08 09:42:59.005727 | Command: /bgmi | Target: 20.204.191.52 | Port: 10403 | Time: 15
+Username: @bazeee123
+Target: 20.204.191.52
+Port: 10403
+Time: 15
+
+UserID: 2059214896 | Time: 2024-09-08 09:43:06.767160 | Command: /bgmi | Target: 20.204.191.52 | Port: 10403 | Time: 15
+Username: @bazeee123
+Target: 20.204.191.52
+Port: 10403
+Time: 15
+
+UserID: 2059214896 | Time: 2024-09-08 09:44:07.099850 | Command: /bgmi | Target: 84 | Port: 94 | Time: 10
+Username: @bazeee123
+Target: 84
+Port: 94
+Time: 10
+
+UserID: 2059214896 | Time: 2024-09-08 09:46:19.787814 | Command: /bgmi | Target: 84 | Port: 923 | Time: 10
+Username: @bazeee123
+Target: 84
+Port: 923
+Time: 10
+
+UserID: 2059214896 | Time: 2024-09-08 09:48:42.207199 | Command: /bgmi | Target: 84 | Port: 923 | Time: 100
+Username: @bazeee123
+Target: 84
+Port: 923
+Time: 100
+
+UserID: 2059214896 | Time: 2024-09-08 09:48:51.877753 | Command: /bgmi | Target: 20.204.191.52 | Port: 10403 | Time: 15
+Username: @bazeee123
+Target: 20.204.191.52
+Port: 10403
+Time: 15
+
+UserID: 2059214896 | Time: 2024-09-08 18:20:06.211269 | Command: /bgmi | Target: 20.198.106.84 | Port: 26516 | Time: 30
+Username: @bazeee123
+Target: 20.198.106.84
+Port: 26516
+Time: 30
+
